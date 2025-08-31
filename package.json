@@ -8,7 +8,7 @@
   "repository": "https://github.com/davidprush/kde-plasma-breeze-vscode-themes",
 	"galleryBanner": {
 		"color": "#202224",
-		"theme": "light"
+		"theme": "dark"
 	},
   "engines": {
     "vscode": "^1.103.0"
