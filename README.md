@@ -10,8 +10,10 @@ KDE Plasma Breeze comes in a **dark theme** and a **light theme**; this provides
 
 ## KDE Plasma Breeze
 A Visual Studio Code theme that matches the Breeze themes for KDE Plasma Desktop 
-![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/06a7e9c72c695c20bb85b5255d5c9687ff05ca85/Screenshot_Breeze_Dark.png)
-![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/06a7e9c72c695c20bb85b5255d5c9687ff05ca85/Screenshot_Breeze_Light.png)
+
+![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/db34c7936e1ac67280aac6a6b85f63e523aeb21a/Screenshot_Breeze_Dark.png?raw=true)
+
+![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/db34c7936e1ac67280aac6a6b85f63e523aeb21a/Screenshot_Breeze_Light.png?raw=true)
 
 ### ☞ How to install KDE Plasma Breeze for Visual Studio Code:
 
