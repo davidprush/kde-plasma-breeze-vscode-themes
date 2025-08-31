@@ -1,5 +1,6 @@
 {
   "name": "kde-plasma-breeze",
+  "publisher": "davidprush",
   "displayName": "KDE Plasma Breeze",
   "description": "Theme matching KDE Plasma Breeze",
   "version": "1.0.0",
