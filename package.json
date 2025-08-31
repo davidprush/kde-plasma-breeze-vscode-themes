@@ -4,6 +4,7 @@
   "description": "Theme matching KDE Plasma Breeze",
   "version": "1.0.0",
 	"icon": "icon-kde-plasma-breeze.png",
+  "repository": "https://github.com/davidprush/kde-plasma-breeze-vscode-themes",
 	"galleryBanner": {
 		"color": "#3DAEE9",
 		"theme": "light"
