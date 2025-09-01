@@ -7,7 +7,7 @@
 	"icon": "icon-kde-plasma-breeze.png",
 	"repository": "https://github.com/davidprush/kde-plasma-breeze-vscode-themes",
 	"galleryBanner": {
-		"color": "#3DAEE9",
+		"color": "#202224",
 		"theme": "light"
 	},
 	"engines": {
