@@ -3,17 +3,17 @@
 ✨ Catch the Breeze ✨
 -------------------------
 
-Say hello to the most accurate themes matching Breeze (Dark & Light) for the KDE Plasma Desktop. Ideal for coding in any environment with a balanced color pallete.
+Introducing the most precise theme matching for KDE Plasma Desktop: Breeze (Dark &amp; Light). It is perfect for coding, in all environments, with a balanced palette of colors.
 
 Carefully calibrated for KDE Plasma Desktops
 --------------------------------------------
 
-KDE Plasma Breeze is thoughtfully designed to coordinate the theme providing visual consistency with KDE Plasma. The initial release includes two themes (Breeze Light & Breeze Dark) allowing VS Code to seemlessly blend within the KDE Plasma desktop environment, this theme ensures a more aesthetically pleasing experience.
+KDE Plasma Breeze is deliberately designed to harmonize the theme and ensure visual consistency within KDE Plasma. The initial release includes two themes (Breeze Light &amp; Breeze Dark), enabling VS Code to integrate seamlessly with the KDE Plasma desktop environment, thus providing a more aesthetically pleasing experience.
 
 Future Plans/Projects
 ---------------------
 
-Working on additional themes to match KDE Plasma themes (i.e. Breeze Twilight, Feddora, Sweet KDE, macOS clone) as well as other apps.
+Developing additional themes to align with KDE Plasma themes, such as Breeze Twilight, Fedora, Sweet KDE, macOS clone, and other applications.
 
 #### Changelog
 
