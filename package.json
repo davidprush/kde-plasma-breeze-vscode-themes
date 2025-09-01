@@ -1,33 +1,38 @@
 {
-  "name": "kde-plasma-breeze",
-  "publisher": "davidprush",
-  "displayName": "KDE Plasma Breeze",
-  "description": "Theme matching KDE Plasma Breeze",
-  "version": "1.0.0",
+	"name": "kde-plasma-breeze",
+	"publisher": "davidprush",
+	"displayName": "KDE Plasma Breeze",
+	"description": "Theme matching KDE Plasma Breeze",
+	"version": "1.0.0",
 	"icon": "icon-kde-plasma-breeze.png",
-  "repository": "https://github.com/davidprush/kde-plasma-breeze-vscode-themes",
+	"repository": "https://github.com/davidprush/kde-plasma-breeze-vscode-themes",
 	"galleryBanner": {
-		"color": "#202224",
-		"theme": "dark"
+		"color": "#3DAEE9",
+		"theme": "light"
 	},
-  "engines": {
-    "vscode": "^1.103.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Breeze Dark (KDE Plasma)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Breeze Dark-color-theme.json"
-      },
-      {
-        "label": "Breeze Light (KDE Plasma)",
-        "uiTheme": "vs",
-        "path": "./themes/Breeze Light-color-theme.json"        
-      }
-    ]
-  }
+	"engines": {
+		"vscode": "^1.103.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Breeze Dark (KDE Plasma)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Breeze Dark-color-theme.json"
+			},
+			{
+				"label": "Breeze Light (KDE Plasma)",
+				"uiTheme": "vs",
+				"path": "./themes/Breeze Light-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1756665402190,
+		"targetPlatform": "undefined",
+		"size": 1536933
+	}
 }

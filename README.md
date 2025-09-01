@@ -1,15 +1,14 @@
 KDE Plasma Breeze Themes for Visual Studio Code
 ===============================================
 
-Thoughtfully Created for a Consistent Expeerience
--------------------------------------------------
+Carefully designed to ensure a consistent experience.
+-----------------------------------------------------
 
-**KDE Plasma Breeze** is a color scheme and user interface theme for KDE Plasma Desktop users. It has been designed with **visual continuity** in mind. Additionally, the themes are carefully calibrated to provide a seemless experience while maintaining a focus on minimizing distractions.
+The **KDE Plasma Breeze** is a color scheme and user interface theme specifically created for the KDE Plasma Desktop environment. Visual continuity was a key design consideration. Furthermore, the themes are meticulously designed to provide a seamless experience while minimizing distractions.
 
-KDE Plasma Breeze comes in a **dark theme** and a **light theme**; this provides adaptation for the most common work environments, the goal of every theme should be enabling focus on coding and eliminating distractions. Additional themes are tentatively planned for release with this extension: Breeze Twilight, Feddora, Sweet KDE, macOS clone, etc. 
+KDE Plasma Breeze offers both **dark and light themes**. Further themes are tentatively scheduled to be released with this extension, including: Breeze Twilight, Feddora, Sweet KDE, macOS clone, etc.
 
 ## KDE Plasma Breeze
-A Visual Studio Code theme that matches the Breeze themes for KDE Plasma Desktop 
 
 ![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/db34c7936e1ac67280aac6a6b85f63e523aeb21a/Screenshot_Breeze_Dark.png?raw=true)
 
