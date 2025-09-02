@@ -10,9 +10,9 @@ KDE Plasma Breeze offers both **dark and light themes**. Further themes are tent
 
 ## KDE Plasma Breeze
 
-![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/db34c7936e1ac67280aac6a6b85f63e523aeb21a/Screenshot_Breeze_Dark.png?raw=true)
+![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/main/Screenshot_Breeze_Dark.png?raw=true)
 
-![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/db34c7936e1ac67280aac6a6b85f63e523aeb21a/Screenshot_Breeze_Light.png?raw=true)
+![](https://github.com/davidprush/kde-plasma-breeze-vscode-themes/blob/main/Screenshot_Breeze_Light.png?raw=true)
 
 ### ☞ How to install KDE Plasma Breeze for Visual Studio Code:
 
